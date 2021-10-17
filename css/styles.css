@@ -49,9 +49,10 @@ td {
 }
 
 
-h1.head1 {
+h2.head2 {
   background-color: rgba(255, 0, 0, 0.3);
   color: black;
+  font-style: italic;
   font-size: 30px;
   font-family: Verdana;
   font-weight: normal;
@@ -59,7 +60,7 @@ h1.head1 {
   text-align: left;
   
 }
-h2 { 
+h3 { 
   font-size: 20px;
   font-family: Verdana;
   font-weight: bold;
